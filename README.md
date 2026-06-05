@@ -1,4 +1,4 @@
-handson/
+pulatovd/
 ├── ru/
 │   ├── index.html      # Главная страница
 │   ├── css/
