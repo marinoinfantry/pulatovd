@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Давлатбек Пулатов — Разработка ПО, Сети, Безопасность, CTF</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Давлатбек Пулатов</h1>
+    <p>Разработка ПО • Сети • Безопасность • CTF</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">Обо мне</a></li>
+      <li><a href="networks/index.html">Сети</a></li>
+      <li><a href="networks/security.html">Безопасность</a></li>
+      <li><a href="networks/ctf.html">CTF</a></li>
+      <li><a href="../en/index.html">English version</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>Обо мне</h2>
+      <p>Привет! Я Давлатбек Пулатов, разработчик ПО из Москвы. Мои основные интересы: разработка программного обеспечения, компьютерные сети, кибербезопасность и участие в CTF-соревнованиях.</p>
+    </section>
+
+    <section id="projects">
+      <h2>Проекты</h2>
+      <p>Здесь будут представлены мои проекты по разработке, сетям и безопасности.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Контакты</h2>
+      <p>Email: <a href="mailto:example@example.com">example@example.com</a></p>
+      <p>GitHub: <a href="https://github.com/pulatovd" target="_blank">pulatovd</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Давлатбек Пулатов. Все права защищены.</p>
+  </footer>
+</body>
+</html>
